@@ -1,2 +1,2 @@
 # ASDF
-Adversarial State Detection Framework
+This is the implementation of adversarial state detection framework.
